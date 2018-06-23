@@ -1,7 +1,10 @@
 //jshint strict: false
 exports.config = {
 
-  allScriptsTimeout: 11000,
+  allScriptsTimeout: 22000,
+  ignoreUncaughtExceptions: true,
+  seleniumAddress: 'http://localhost:4444/wd/hub',
+  specs: ['todo-spec.js'],
 
   specs: [
     '*.js'
@@ -16,7 +19,7 @@ exports.config = {
   framework: 'jasmine',
 
   jasmineNodeOpts: {
-    defaultTimeoutInterval: 30000
+    defaultTimeoutInterval: 60000
   }
 
 };

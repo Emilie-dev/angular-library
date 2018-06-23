@@ -2,25 +2,7 @@
 angular.
   module('bookList').
   component('bookList', {
-    template:
-      '<!-- Page Heading -->' +
-      '<h1 class="my-4">MES LIVRES</h1>' +
-      '<hr>' +
-      '<!-- Book List -->' +
-      '<div class="row" ng-repeat="book in $ctrl.books" style="padding-bottom: 18px;">' +
-        '<div class="col-md-3" >' +
-          '<img class="img-fluid rounded mb-3 mb-md-0" src="{{book.image}}" alt="Illustration du livre" style="width: 250px;">' +
-        '</div>' +
-        '<div class="col-md-5">' +
-          '<h3>{{book.title}}</h3>' +
-          '<p>{{book.author}}</p>' +
-          '<p>{{book.date}}</p>' +
-          '<p>{{book.genre}}</p>' +
-          '<a class="btn bg-dark" href="#" style="color: #ffffff;">En savoir plus</a>' +
-          '<hr>' +
-        '</div>' +
-      '</div> ' +
-      '<!-- /.row -->',
+    templateUrl: 'book-list/book-list.template.html',
     controller: function BookListController() {
       this.books = [
         {

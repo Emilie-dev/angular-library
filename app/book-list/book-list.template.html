@@ -1,0 +1,36 @@
+<!-- Page Heading -->
+<h1 class="my-4">MES LIVRES</h1>
+
+<hr>
+
+<!-- Sidebar Widget Column -->
+<div class="col-md-4">
+
+  <!-- Search Widget -->
+  <div class="card my-4">
+    <h5 class="card-header bg-dark" style="color: #ffffff;">Rechercher</h5>
+    <div class="card-body">
+      <div class="input-group">
+        <input ng-model="$ctrl.query" type="text" class="form-control" placeholder="Rechercher...">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Book List --> 
+<div class="row" ng-repeat="book in $ctrl.books | filter:$ctrl.query" style="padding-bottom: 18px;">
+  <div class="col-md-3" >
+    <img class="img-fluid rounded mb-3 mb-md-0" src="{{book.image}}" alt="Illustration du livre" style="width: 250px;">
+  </div>
+  <div class="col-md-5">
+    <h3>{{book.title}}</h3>
+    <p>{{book.author}}</p>
+    <p>{{book.date}}</p>
+    <p>{{book.genre}}</p>
+    <a class="btn bg-dark" href="#" style="color: #ffffff;">En savoir plus</a>
+
+    <hr>
+
+  </div>
+</div>
+<!-- /.row -->
