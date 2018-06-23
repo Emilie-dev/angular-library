@@ -50,5 +50,4 @@ angular.
       this.orderProp = 'age';
 
     }
-    
   });
