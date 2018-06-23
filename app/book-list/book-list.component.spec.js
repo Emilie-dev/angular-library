@@ -6,12 +6,19 @@ describe('bookList', function() {
 
   // Test the controller
   describe('BookListController', function() {
+  	var ctrl;
 
-    it('should create a `books` model with 5 books', inject(function($componentController) {
-      var ctrl = $componentController('bookList');
-
-      expect(ctrl.books.length).toBe(5);
+   	beforeEach(inject(function($componentController) {
+      ctrl = $componentController('bookList');
     }));
+
+    it('should create a `books` model with 5 books', function() {
+      expect(ctrl.books.length).toBe(5);
+    });
+
+    it('should set a default value for the `orderProp` model', function() {
+      expect(ctrl.orderProp).toBe('age');
+    });
 
   });
 
