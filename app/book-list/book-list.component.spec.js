@@ -2,7 +2,7 @@
 describe('bookList', function() {
 
   // Load the module that contains the `bookList` component before each test
-  beforeEach(module('libraryApp'));
+  beforeEach(module('bookList'));
 
   // Test the controller
   describe('BookListController', function() {
