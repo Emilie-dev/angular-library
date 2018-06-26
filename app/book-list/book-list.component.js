@@ -10,7 +10,7 @@ angular.
            author: 'J.K Rowling',
            date: '1997',
            genre: 'Fantasy',
-           image: 'img/books/harry-potter-a-lecole-des-sorciers.jpg',
+           image: './img/books/harry-potter-a-lecole-des-sorciers.jpg',
            age: 4
          },
          {
@@ -18,7 +18,7 @@ angular.
            author: 'Jack London',
            date: '1906',
            genre: 'Aventure',
-           image: 'img/books/croc-blanc.jpg',
+           image: './img/books/croc-blanc.jpg',
            age: 5
          },
          {
@@ -26,7 +26,7 @@ angular.
            author: 'Dr. Détox',
            date: '2016',
            genre: 'Diététique',
-           image: 'img/books/detox-plus.jpg',
+           image: './img/books/detox-plus.jpg',
            age: 2
          },
          {
@@ -34,7 +34,7 @@ angular.
            author: 'J.K Rowling',
            date: '2000',
            genre: 'Fantasy',
-           image: 'img/books/harry-potter-et-la-coupe-de-feu.jpg',
+           image: './img/books/harry-potter-et-la-coupe-de-feu.jpg',
            age: 3
          },
          {
@@ -42,7 +42,7 @@ angular.
            author: 'A.A Angularis',
            date: '2017',
            genre: 'Informatique',
-           image: 'img/books/apprendre-angularJS.jpg',
+           image: './img/books/apprendre-angularJS.jpg',
            age: 1
          }
       ];
