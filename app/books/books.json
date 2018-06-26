@@ -5,12 +5,8 @@
 		"author" : "Franck Thilier",
 		"date" : "2018",
 		"genre" : "Thriller",
-		"resume" : "Un manuscrit sans fin, une enquête sans corps, une défunte sans visage...
-		Aux alentours de Grenoble, un jeune a fini sa trajectoire dans un ravin après une course-poursuite avec la douane. Dans son coffre, le corps d'une femme, les orbites vides, les mains coupées et rassemblées dans un sac. À la station-service où a été vue la voiture pour la dernière fois, la vidéosurveillance est claire : l'homme qui conduisait n'était pas le propriétaire du véhicule et encore moins le coupable.
-
-		Léane Morgan et Enaël Miraure sont une seule et même personne. L'institutrice reconvertie en reine du thriller a toujours tenu sa vie privée secrète. En pleine promo pour son nouveau roman dans un café parisien, elle résiste à la pression d'un journaliste : elle ne donnera pas à ce vautour ce qu'il attend, à savoir un papier sur un auteur à succès subissant dans sa vie l'horreur racontée dans ses livres. Car sa vie, c'est un mariage dont il ne reste rien sauf un lieu, L'inspirante, villa posée au bord des dunes de la Côte d'Opale où est resté son mari depuis la disparition de leur fille. Mais un appel lui annonçant son hospitalisation à la suite d'une agression va faire resurgir le pire des quatre dernières années écoulées. Il a perdu la mémoire. Elle est seule.
-		Dans le vent, le sable et le brouillard, une question se posera : faut-il faire de cette vie-là un manuscrit inachevé, et en commencer un autre ?",
-		"image": "img/books/le-manuscrit-inachenve.jpg",
+		"resume" : "Un manuscrit sans fin, une enquête sans corps, une défunte sans visage... Aux alentours de Grenoble, un jeune a fini sa trajectoire dans un ravin après une course-poursuite avec la douane. Dans son coffre, le corps d'une femme, les orbites vides, les mains coupées et rassemblées dans un sac. À la station-service où a été vue la voiture pour la dernière fois, la vidéosurveillance est claire : l'homme qui conduisait n'était pas le propriétaire du véhicule et encore moins le coupable. Léane Morgan et Enaël Miraure sont une seule et même personne. L'institutrice reconvertie en reine du thriller a toujours tenu sa vie privée secrète. En pleine promo pour son nouveau roman dans un café parisien, elle résiste à la pression d'un journaliste : elle ne donnera pas à ce vautour ce qu'il attend, à savoir un papier sur un auteur à succès subissant dans sa vie l'horreur racontée dans ses livres. Car sa vie, c'est un mariage dont il ne reste rien sauf un lieu, L'inspirante, villa posée au bord des dunes de la Côte d'Opale où est resté son mari depuis la disparition de leur fille. Mais un appel lui annonçant son hospitalisation à la suite d'une agression va faire resurgir le pire des quatre dernières années écoulées. Il a perdu la mémoire. Elle est seule. Dans le vent, le sable et le brouillard, une question se posera : faut-il faire de cette vie-là un manuscrit inachevé, et en commencer un autre ?",
+		"image": "img/books/le-manuscrit-inacheve.jpg",
 		"age" : 1  
 	},
 	{
@@ -20,7 +16,7 @@
 		"date" : "2017",
 		"genre" : "Informatique",
 		"resume" : "Regroupe les meilleurs astuce pour apprendre AngularJS. Contient des cours de niveau débutant à confirmé.",
-		"image": "img/books/apprendre-anjularJS.jpg",
+		"image": "img/books/apprendre-angularJS.jpg",
 		"age" : 2  
 	},
 	{
@@ -39,12 +35,8 @@
 		"author" : "J.K Rowling",
 		"date" : "2000",
 		"genre" : "Fantasy",
-		"resume" : "Juste avant d'assister à la coupe du Monde de Quidditch opposant les équipes d'Irlande et de Bulgarie, Harry Potter fait un rêve étrange dans lequel il est témoin du meurtre d'un vieux jardinier moldu par Voldemort, alors que le jardinier surprenait une conversation au sujet de Harry.
-		
-		Au camping de la coupe du Monde, juste après le match, des mangemorts font irruption en pleine nuit et provoquent la panique parmi les supporters, en faisant apparaître la Marque des Ténèbres dans le ciel, et annonçant le retour du mage noir.
-		
-		Harry passe le reste des vacances d'été au Terrier sous haute surveillance, et entame une nouvelle année à Poudlard, annoncée comme une véritable année de compétition. En effet, l'école accueille exceptionnellement un grand évènement : le Tournoi des Trois Sorciers. À cette occasion, Poudlard accueille également des délégations de deux autres écoles de magie : celles de Durmstrang et de Beauxbâtons. Contre toute attente, alors que les trois champions sont choisis par la Coupe de Feu (Viktor Krum pour Durmstrang, Fleur Delacour pour Beauxbâtons et Cedric Diggory pour Poudlard), un deuxième champion de Poudlard est désigné, et il s'agit de Harry Potter.",
-		"image": "img/books/harry-potter-a-lecole-des-sorciers.jpg",
+		"resume" : "Juste avant d'assister à la coupe du Monde de Quidditch opposant les équipes d'Irlande et de Bulgarie, Harry Potter fait un rêve étrange dans lequel il est témoin du meurtre d'un vieux jardinier moldu par Voldemort, alors que le jardinier surprenait une conversation au sujet de Harry. Au camping de la coupe du Monde, juste après le match, des mangemorts font irruption en pleine nuit et provoquent la panique parmi les supporters, en faisant apparaître la Marque des Ténèbres dans le ciel, et annonçant le retour du mage noir. Harry passe le reste des vacances d'été au Terrier sous haute surveillance, et entame une nouvelle année à Poudlard, annoncée comme une véritable année de compétition. En effet, l'école accueille exceptionnellement un grand évènement : le Tournoi des Trois Sorciers. À cette occasion, Poudlard accueille également des délégations de deux autres écoles de magie : celles de Durmstrang et de Beauxbâtons. Contre toute attente, alors que les trois champions sont choisis par la Coupe de Feu (Viktor Krum pour Durmstrang, Fleur Delacour pour Beauxbâtons et Cedric Diggory pour Poudlard), un deuxième champion de Poudlard est désigné, et il s'agit de Harry Potter.",
+		"image": "img/books/harry-potter-et-la-coupe-de-feu.jpg",
 		"age" : 4  
 	},
 	{
@@ -69,12 +61,12 @@
 	},
 	{
 		"id" : "lileAuTresor",
-		"title" : "L'île au trésor ",
+		"title" : "L'île au trésor",
 		"author" : "Louis Stevenson",
 		"date" : "1883",
 		"genre" : "Aventure",
 		"resume" : "Le jeune Jim Hawkins est le fils du gérant de l'auberge « L'Amiral-Benbow ». Un jour, un vieux loup de mer chargé d'un coffre, et nommé Billy Bones, débarque à l'auberge et s'y installe. Jim est tout à la fois fasciné et terrifié par ce marin colérique, violent et ivrogne, d'autant qu'une obscure menace semble planer sur ce dernier.",
-		"image": "img/books/lile-au-tresore.jpg",
+		"image": "img/books/lile-au-tresor.jpg",
 		"age" : 7  
 	},
 	{
@@ -104,7 +96,7 @@
 		"date" : "1782",
 		"genre" : "Littérature française",
 		"resume" : "Dans ce premier tome, Rousseau évoque sa petite enfance. Très vite, il parle de sa passion pour les livres et leurs auteurs : L'Histoire de l’Église et de l'Empire par Jean le Sueur, le Discours de Bossuet sur l'histoire universelle, Les Hommes illustres de Plutarque, L'Histoire de Venise par Nani, les Métamorphoses d'Ovide, la Bruyère, Les Mondes de Fontenelle, ses Dialogues des morts et quelques tomes de Molière.",
-		"image": "img/books/harry-potter-a-lecole-des-sorciers.jpg",
+		"image": "img/books/les-confessions-livre-1.jpg",
 		"age" : 10  
-	},
+	}
 ]
