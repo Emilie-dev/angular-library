@@ -1,0 +1,10 @@
+{
+	"id" : "crocBlanc",
+	"title" : "Croc-Blanc",
+	"author" : "Jack London",
+	"date" : "1906",
+	"genre" : "Aventure",
+	"resume" : "L'histoire commence à la naissance de Croc-Blanc, un chien-loup. Le roman suit la meute d'où il vient et ses premières semaines de vie sauvage, sa lutte pour la vie : manger ou être mangé.",
+	"image": "img/books/croc-blanc.jpg",
+	"age" : 6  
+}

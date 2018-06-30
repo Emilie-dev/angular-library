@@ -1,0 +1,10 @@
+{
+	"id" : "harryPotter1",
+	"title" : "Harry Potter à l'école des sorciers",
+	"author" : "J.K Rowling",
+	"date" : "1997",
+	"genre" : "Littérature anglaise",
+	"resume" : "L'intrigue du premier roman débute durant l'été 1991. Peu avant son onzième anniversaire, Harry reçoit une lettre l'invitant à se présenter lors de la rentrée des classes à l'école de sorcellerie de Poudlard.",
+	"image": "img/books/harry-potter-a-lecole-des-sorciers.jpg",
+	"age" : 5  
+}

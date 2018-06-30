@@ -1,0 +1,10 @@
+{
+	"id" : "lesConfessions",
+	"title" : "Les Confessions - Livre 1",
+	"author" : "Jean-Jacques Rousseau",
+	"date" : "1782",
+	"genre" : "Littérature française",
+	"resume" : "Dans ce premier tome, Rousseau évoque sa petite enfance. Très vite, il parle de sa passion pour les livres et leurs auteurs : L'Histoire de l’Église et de l'Empire par Jean le Sueur, le Discours de Bossuet sur l'histoire universelle, Les Hommes illustres de Plutarque, L'Histoire de Venise par Nani, les Métamorphoses d'Ovide, la Bruyère, Les Mondes de Fontenelle, ses Dialogues des morts et quelques tomes de Molière.",
+	"image": "img/books/harry-potter-a-lecole-des-sorciers.jpg",
+	"age" : 10  
+}

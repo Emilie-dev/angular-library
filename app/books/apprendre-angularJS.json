@@ -1,0 +1,10 @@
+{
+	"id" : "apprendreAngularJS",
+	"title" : "Apprendre AngularJS",
+	"author" : "A.A Angularis",
+	"date" : "2017",
+	"genre" : "Informatique",
+	"resume" : "Regroupe les meilleurs astuce pour apprendre AngularJS. Contient des cours de niveau débutant à confirmé.",
+	"image": "img/books/apprendre-anjularJS.jpg",
+	"age" : 2  
+}

@@ -1,0 +1,10 @@
+{
+	"id" : "detoxPlus",
+	"title" : "Détox Plus",
+	"author" : "Dr. Détox",
+	"date" : "2016",
+	"genre" : "Diététique",
+	"resume" : "Mes meilleures techniques pour une détox optimale !",
+	"image": "img/books/detox-plus.jpg",
+	"age" : 3  
+}

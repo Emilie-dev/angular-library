@@ -1,0 +1,10 @@
+{
+	"id" : "lesMiserables1",
+	"title" : "Les Misérables - Tome 1 : Fantine",
+	"author" : "Victor Hugo",
+	"date" : "1862",
+	"genre" : "Littérature française",
+	"resume" : "L'action se déroule en France au cours du premier tiers du xixe siècle, entre la bataille de Waterloo (1815) et les émeutes de juin 1832. On y suit, sur cinq tomes, la vie de Jean Valjean, de sa sortie du bagne jusqu'à sa mort. Autour de lui gravitent les personnages, dont certains vont donner leur nom aux différents tomes du roman, témoins de la misère de ce siècle, misérables eux-mêmes ou proches de la misère : Fantine, Cosette, Marius, mais aussi les Thénardier (dont Éponine, Azelma et Gavroche) ainsi que le représentant de la loi, Javert.",
+	"image": "img/books/les-miserables-tome-1-Fantine.jpg",
+	"age" : 9  
+}
