@@ -63,5 +63,19 @@ describe('Library Application', function() {
     });
 
   }); 
+    
+
+  describe('View: Book detail', function() {
+
+    beforeEach(function() {
+      browser.get('index.html#!/books/leManuscritInacheve');
+    });
+
+    it('should display the `Le Manuscrit Inachevé` page', function() {
+      expect(element(by.binding('$ctrl.book.name')).getText()).toBe('Le Manuscrit Inachevé');
+    });
+
+});
+
 
 });

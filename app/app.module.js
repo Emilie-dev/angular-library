@@ -2,7 +2,8 @@
 
 // Define the `libraryApp` module
 angular.module('libraryApp', [
-  // ...which depends on the `bookList` module
+  // ...which depends on modules
+  'ngRoute',
   'bookList',
-  'ngRoute'
+  'bookDetail'
 ]);
