@@ -1,15 +1,10 @@
 {
-	"id" : "leManuscritInacheve",
+	"id" : "le-manuscrit-inacheve",
 	"title" : "Le Manuscrit Inachevé",
 	"author" : "Franck Thilier",
 	"date" : "2018",
 	"genre" : "Thriller",
-	"resume" : "Un manuscrit sans fin, une enquête sans corps, une défunte sans visage...
-	
-	Aux alentours de Grenoble, un jeune a fini sa trajectoire dans un ravin après une course-poursuite avec la douane. Dans son coffre, le corps d'une femme, les orbites vides, les mains coupées et rassemblées dans un sac. À la station-service où a été vue la voiture pour la dernière fois, la vidéosurveillance est claire : l'homme qui conduisait n'était pas le propriétaire du véhicule et encore moins le coupable.
-
-	Léane Morgan et Enaël Miraure sont une seule et même personne. L'institutrice reconvertie en reine du thriller a toujours tenu sa vie privée secrète. En pleine promo pour son nouveau roman dans un café parisien, elle résiste à la pression d'un journaliste : elle ne donnera pas à ce vautour ce qu'il attend, à savoir un papier sur un auteur à succès subissant dans sa vie l'horreur racontée dans ses livres. Car sa vie, c'est un mariage dont il ne reste rien sauf un lieu, L'inspirante, villa posée au bord des dunes de la Côte d'Opale où est resté son mari depuis la disparition de leur fille. Mais un appel lui annonçant son hospitalisation à la suite d'une agression va faire resurgir le pire des quatre dernières années écoulées. Il a perdu la mémoire. Elle est seule.
-	Dans le vent, le sable et le brouillard, une question se posera : faut-il faire de cette vie-là un manuscrit inachevé, et en commencer un autre ?",
-	"image": "img/books/le-manuscrit-inachenve.jpg",
+	"resume" : "Un manuscrit sans fin, une enquête sans corps, une défunte sans visage... Aux alentours de Grenoble, un jeune a fini sa trajectoire dans un ravin après une course-poursuite avec la douane. Dans son coffre, le corps d'une femme, les orbites vides, les mains coupées et rassemblées dans un sac. À la station-service où a été vue la voiture pour la dernière fois, la vidéosurveillance est claire : l'homme qui conduisait n'était pas le propriétaire du véhicule et encore moins le coupable. Léane Morgan et Enaël Miraure sont une seule et même personne. L'institutrice reconvertie en reine du thriller a toujours tenu sa vie privée secrète. En pleine promo pour son nouveau roman dans un café parisien, elle résiste à la pression d'un journaliste : elle ne donnera pas à ce vautour ce qu'il attend, à savoir un papier sur un auteur à succès subissant dans sa vie l'horreur racontée dans ses livres. Car sa vie, c'est un mariage dont il ne reste rien sauf un lieu, L'inspirante, villa posée au bord des dunes de la Côte d'Opale où est resté son mari depuis la disparition de leur fille. Mais un appel lui annonçant son hospitalisation à la suite d'une agression va faire resurgir le pire des quatre dernières années écoulées. Il a perdu la mémoire. Elle est seule. Dans le vent, le sable et le brouillard, une question se posera : faut-il faire de cette vie-là un manuscrit inachevé, et en commencer un autre ?",
+	"image": "img/books/le-manuscrit-inacheve.jpg",
 	"age" : 1  
 }

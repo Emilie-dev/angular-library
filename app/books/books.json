@@ -1,6 +1,6 @@
 [
 	{
-		"id" : "leManuscritInacheve",
+		"id" : "le-manuscrit-inacheve",
 		"title" : "Le Manuscrit Inachevé",
 		"author" : "Franck Thilier",
 		"date" : "2018",
@@ -10,7 +10,7 @@
 		"age" : 1  
 	},
 	{
-		"id" : "apprendreAngularJS",
+		"id" : "apprendre-angularJS",
 		"title" : "Apprendre AngularJS",
 		"author" : "A.A Angularis",
 		"date" : "2017",
@@ -20,7 +20,7 @@
 		"age" : 2  
 	},
 	{
-		"id" : "detoxPlus",
+		"id" : "detox-plus",
 		"title" : "Détox Plus",
 		"author" : "Dr. Détox",
 		"date" : "2016",
@@ -30,7 +30,7 @@
 		"age" : 3  
 	},
 	{
-		"id" : "harryPotter4",
+		"id" : "harry-potter-et-la-coupe-de-feu",
 		"title" : "Harry Potter et la Coupe de feu",
 		"author" : "J.K Rowling",
 		"date" : "2000",
@@ -40,7 +40,7 @@
 		"age" : 4  
 	},
 	{
-		"id" : "harryPotter1",
+		"id" : "harry-potter-a-lecole-des-sorciers",
 		"title" : "Harry Potter à l'école des sorciers",
 		"author" : "J.K Rowling",
 		"date" : "1997",
@@ -50,7 +50,7 @@
 		"age" : 5  
 	},
 	{
-		"id" : "crocBlanc",
+		"id" : "croc-blanc",
 		"title" : "Croc-Blanc",
 		"author" : "Jack London",
 		"date" : "1906",
@@ -60,7 +60,7 @@
 		"age" : 6  
 	},
 	{
-		"id" : "lileAuTresor",
+		"id" : "lile-au-tresor",
 		"title" : "L'île au trésor",
 		"author" : "Louis Stevenson",
 		"date" : "1883",
@@ -80,7 +80,7 @@
 		"age" : 8
 	},
 	{
-		"id" : "lesMiserables1",
+		"id" : "les-miserables-tome-1-fantine",
 		"title" : "Les Misérables - Tome 1 : Fantine",
 		"author" : "Victor Hugo",
 		"date" : "1862",
@@ -90,7 +90,7 @@
 		"age" : 9
 	},
 	{
-		"id" : "lesConfessions",
+		"id" : "les-confessions-livre-1",
 		"title" : "Les Confessions - Livre 1",
 		"author" : "Jean-Jacques Rousseau",
 		"date" : "1782",

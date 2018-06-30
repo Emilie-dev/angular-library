@@ -37,7 +37,7 @@
  ng-repeat="book in $ctrl.books | filter:$ctrl.query | orderBy:$ctrl.orderProp" 
  style="padding-bottom: 18px;">
   <div class="col-md-3" >
-    <img class="img-fluid rounded mb-3 mb-md-0" ng-src="{{book.image}}" alt="{{book.name}}" style="width: 250px;">
+    <img class="img-fluid rounded mb-3 mb-md-0" ng-src="{{book.image}}" alt="{{book.title}}" style="width: 250px;">
   </div>
   <div class="col-md-5">
     <h3>{{book.title}}</h3>
