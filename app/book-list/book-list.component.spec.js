@@ -33,6 +33,14 @@ describe('bookList', function() {
       ctrl = $componentController('bookList');
     }));
 
+    it('should render book specific links', function() {
+      var query = element(by.model('$ctrl.query'));
+      query.sendKeys('Croc-Blanc');
+
+      element.all(by.css('.books div button')).first().click();
+      expect(browser.getLocationAbsUrl()).toBe('/books/Croc-Blanc');
+    });
+
   });
 
 });

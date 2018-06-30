@@ -54,8 +54,8 @@
   <!-- Page Content -->
   <div class="container">
 
-    <!-- Use a custom component to render a list of books -->
-    <book-list></book-list>
+    <!-- The role of the ngView directive is to include the view template for the current route into the layout template. -->
+     <div ng-view></div>
 
     <hr>
 
@@ -100,17 +100,28 @@
   -->
   <!-- Loads AngularJS -->
   <script src="bower_components/angular/angular.js"></script>
+
+  <!-- Defines the AngularJS ngRoute module, which provides us with routing. -->
   <script src="bower_components/angular-route/angular-route.js"></script>
   <script src="components/version/version.js"></script>
   <script src="components/version/version-directive.js"></script>
   <script src="components/version/interpolate-filter.js"></script>
+
   <!-- app.js -->
   <script src="app.module.js"></script>
+
+  <!-- Configures the providers available to our main module -->
+  <script src="app.config.js"></script>
 
   <!-- book-list module -->
   <script src="book-list/book-list.module.js"></script>
   <!-- book-list component -->
   <script src="book-list/book-list.component.js"></script>
+
+  <!-- book-detail module -->
+  <script src="book-detail/book-detail.module.js"></script>
+  <!-- book-detail component -->
+  <script src="book-detail/book-detail.component.js"></script>
 
   <!-- jQuery + Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
